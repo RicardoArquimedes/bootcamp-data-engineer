@@ -1,0 +1,2 @@
+-- USE DATABASE
+USE employees;
